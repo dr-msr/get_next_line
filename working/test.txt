@@ -1,0 +1,1 @@
+How do we make it read continuously? Of course we need to call this function in a loop, an endless loop (really? 😱). No. Must add a conditional statement to of course break out of the loop.
